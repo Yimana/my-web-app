@@ -55,7 +55,7 @@ pipeline {
 
     post {
         success {
-            echo 'Pipeline finished successfully!'
+            echo 'Pipeline finished successfully by GlorayS!'
         }
         failure {
             echo 'Pipeline failed. Check the logs!'
